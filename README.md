@@ -1,7 +1,10 @@
-React Boiler Plate 01:
+### React Router v4.0 Part 1/4
 
-1.  Create React App
-2.  React Router v4.0
-3.  Folder Structure aligned for Views + Components
+Read the article
 
---evedes, Aug 2018
+[The Hitchhiker’s Guide To React Router v4: Grok React Router in 20 minutes
+](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-a957c6a5aa18)
+
+![Alt text](/img/preview.png?raw=true "Optional Title")
+
+
